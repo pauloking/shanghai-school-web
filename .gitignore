@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+*.tsbuildinfo
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
